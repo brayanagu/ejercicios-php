@@ -1,15 +1,14 @@
 <?php
   //ciclo for
   /*
-  echo "hola Silvia";
-  echo "hola Silvia";
-  echo "hola Silvia";
-  echo "hola Silvia";
-  echo "hola Silvia";
-  echo "hola Silvia";
-  echo "hola Silvia";
-  echo "hola Silvia";
-  echo "hola Silvia";
+  echo "hola Brayan";
+  echo "hola Brayan";
+  echo "hola Brayan";
+  echo "hola Brayan";
+  echo "hola Brayan";
+  echo "hola Brayan";
+  echo "hola Brayan";
+  echo "hola Brayan";
   echo "hola Brayan";
   */
 
